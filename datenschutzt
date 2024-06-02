@@ -1,0 +1,66 @@
+Datenschutzerklärung
+
+1. Verantwortliche Stelle
+
+Verantwortliche Stelle im Sinne der Datenschutzgesetze ist:
+
+Rodrigo Helwig
+support@filmprojekt1.de
+
+2. Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck von deren Verwendung
+
+a) Beim Herunterladen der mobilen App
+
+Beim Herunterladen der mobilen App werden die dafür notwendigen Informationen an den App Store (Google Play Store bzw. Apple App Store) übermittelt, insbesondere Benutzername, E-Mail-Adresse und Kundennummer deines Accounts, Zeitpunkt des Downloads, Zahlungsinformationen und die individuelle Gerätekennziffer. Auf diese Datenerhebung haben wir keinen Einfluss und sind nicht dafür verantwortlich. Wir verarbeiten die uns zur Verfügung gestellten Daten, soweit dies für das Herunterladen der mobilen App auf dein mobiles Endgerät notwendig ist.
+
+b) Bei der Nutzung der mobilen App
+
+Bei der Nutzung der App erfassen wir die folgenden personenbezogenen Daten, um die Nutzung der Funktionen der App zu ermöglichen:
+
+Informationen über dein Gerät (z.B. Betriebssystem, Geräte-ID)
+Log-Daten (z.B. IP-Adresse, Zeitpunkt des Zugriffs, genutzte Funktionen)
+3. Firebase
+
+Unsere App verwendet verschiedene Dienste von Firebase, einem Dienst von Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google").
+
+a) Firebase Analytics
+
+Wir nutzen Firebase Analytics, um die Nutzung unserer App zu analysieren. Firebase Analytics sammelt Informationen über die Nutzung der App und ermöglicht es uns, die Nutzungsmuster zu verstehen. Die erhobenen Daten werden anonymisiert und nur für statistische Zwecke verwendet.
+
+b) Firebase Cloud Messaging (FCM)
+
+Wir nutzen Firebase Cloud Messaging, um Push-Benachrichtigungen an unsere Nutzer zu senden. Dazu wird eine eindeutige Kennung deines Geräts verwendet.
+
+c) Firebase Crashlytics
+
+Firebase Crashlytics wird verwendet, um Absturzberichte und andere Fehlerprotokolle zu sammeln. Dies hilft uns, die Stabilität und Leistung unserer App zu verbessern.
+
+4. Datenweitergabe
+
+Eine Weitergabe deiner persönlichen Daten an Dritte findet grundsätzlich nicht statt, außer wenn:
+
+du deine ausdrückliche Einwilligung dazu erteilt hast,
+die Weitergabe zur Wahrung unserer berechtigten Interessen erforderlich ist und kein Grund zur Annahme besteht, dass du ein überwiegendes schutzwürdiges Interesse an der Nichtweitergabe deiner Daten hast,
+für die Weitergabe eine gesetzliche Verpflichtung besteht, sowie
+dies gesetzlich zulässig und für die Abwicklung von Vertragsverhältnissen mit dir erforderlich ist.
+5. Deine Rechte
+
+Du hast das Recht:
+
+gemäß Art. 15 DSGVO Auskunft über deine von uns verarbeiteten personenbezogenen Daten zu verlangen.
+gemäß Art. 16 DSGVO unverzüglich die Berichtigung unrichtiger oder Vervollständigung deiner bei uns gespeicherten personenbezogenen Daten zu verlangen.
+gemäß Art. 17 DSGVO die Löschung deiner bei uns gespeicherten personenbezogenen Daten zu verlangen, soweit nicht die Verarbeitung zur Erfüllung einer rechtlichen Verpflichtung erforderlich ist.
+gemäß Art. 18 DSGVO die Einschränkung der Verarbeitung deiner personenbezogenen Daten zu verlangen.
+gemäß Art. 20 DSGVO deine personenbezogenen Daten, die du uns bereitgestellt hast, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder die Übermittlung an einen anderen Verantwortlichen zu verlangen.
+gemäß Art. 7 Abs. 3 DSGVO deine einmal erteilte Einwilligung jederzeit gegenüber uns zu widerrufen.
+gemäß Art. 77 DSGVO sich bei einer Aufsichtsbehörde zu beschweren.
+6. Datensicherheit
+
+Wir verwenden innerhalb des Website-Besuchs das verbreitete SSL-Verfahren (Secure Socket Layer) in Verbindung mit der jeweils höchsten Verschlüsselungsstufe, die von deinem Browser unterstützt wird. Darüber hinaus setzen wir geeignete technische und organisatorische Sicherheitsmaßnahmen ein, um deine Daten gegen zufällige oder vorsätzliche Manipulationen, teilweisen oder vollständigen Verlust, Zerstörung oder gegen den unbefugten Zugriff Dritter zu schützen.
+
+7. Aktualität und Änderung dieser Datenschutzerklärung
+
+Diese Datenschutzerklärung ist aktuell gültig und hat den Stand [Datum]. Durch die Weiterentwicklung unserer App oder aufgrund geänderter gesetzlicher beziehungsweise behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern.
+
+Rodrigo Helwig
+support@filmprojekt1.de
