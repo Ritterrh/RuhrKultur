@@ -1,7 +1,7 @@
 {
-  'title': 'Test',
-        'author': 'test',
-       'content': 'test',
-      'date': 'test',
-        'urlToImage': 'test'
+  "title": "Test",
+  "author": "test",
+  "content": "test",
+  "date": "test",
+  "urlToImage": "test"
 }
