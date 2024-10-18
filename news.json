@@ -30,7 +30,7 @@
                 "categoryId": 2,
                 "prerequisiteIds": [1]
               },
-              // Weitere Challenges...
+     
             ]
           }
         ],
@@ -38,5 +38,5 @@
       }
     ]
   },
-  // Weitere Spiele...
+
 ]
