@@ -30,7 +30,183 @@
                 "categoryId": 2,
                 "prerequisiteIds": [1]
               },
-     
+              {
+                "id": 3,
+                "title": "Zweite Mission",
+                "description": "Schließe die zweite Mission ab.",
+                "categoryId": 2,
+                "prerequisiteIds": [2]
+              },
+              {
+                "id": 4,
+                "title": "Geheime Mission",
+                "description": "Entdecke die geheime Mission.",
+                "categoryId": 2,
+                "prerequisiteIds": [3]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Spezialoperationen",
+            "parentCategoryId": 1,
+            "gameId": null,
+            "challenges": [
+              {
+                "id": 5,
+                "title": "Operation Alpha",
+                "description": "Schließe Operation Alpha ab.",
+                "categoryId": 3,
+                "prerequisiteIds": []
+              },
+              {
+                "id": 6,
+                "title": "Operation Bravo",
+                "description": "Schließe Operation Bravo ab.",
+                "categoryId": 3,
+                "prerequisiteIds": [5]
+              },
+              {
+                "id": 7,
+                "title": "Operation Charlie",
+                "description": "Schließe Operation Charlie ab.",
+                "categoryId": 3,
+                "prerequisiteIds": [6]
+              }
+            ]
+          }
+        ],
+        "challenges": []
+      },
+      {
+        "id": 4,
+        "title": "Multiplayer",
+        "parentCategoryId": null,
+        "gameId": 1,
+        "subCategories": [],
+        "challenges": [
+          {
+            "id": 8,
+            "title": "Erstes Match gewinnen",
+            "description": "Gewinne dein erstes Multiplayer-Match.",
+            "categoryId": 4,
+            "prerequisiteIds": []
+          },
+          {
+            "id": 9,
+            "title": "Level 10 erreichen",
+            "description": "Erreiche Level 10 im Multiplayer.",
+            "categoryId": 4,
+            "prerequisiteIds": [8]
+          },
+          {
+            "id": 10,
+            "title": "100 Abschüsse erzielen",
+            "description": "Erziele insgesamt 100 Abschüsse.",
+            "categoryId": 4,
+            "prerequisiteIds": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Battlefield",
+    "image": "",
+    "categories": [
+      {
+        "id": 5,
+        "title": "Einzelspieler",
+        "parentCategoryId": null,
+        "gameId": 2,
+        "subCategories": [],
+        "challenges": [
+          {
+            "id": 11,
+            "title": "Kampagne abschließen",
+            "description": "Schließe die Einzelspieler-Kampagne ab.",
+            "categoryId": 5,
+            "prerequisiteIds": []
+          },
+          {
+            "id": 12,
+            "title": "Alle Sammlerstücke finden",
+            "description": "Finde alle Sammlerstücke im Spiel.",
+            "categoryId": 5,
+            "prerequisiteIds": []
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Multiplayer",
+        "parentCategoryId": null,
+        "gameId": 2,
+        "subCategories": [
+          {
+            "id": 7,
+            "title": "Einsätze",
+            "parentCategoryId": 6,
+            "gameId": null,
+            "challenges": [
+              {
+                "id": 13,
+                "title": "Grundlagen lernen",
+                "description": "Lerne die Grundlagen des Spiels.",
+                "categoryId": 7,
+                "prerequisiteIds": []
+              },
+              {
+                "id": 14,
+                "title": "Erste Schlacht",
+                "description": "Nimm an deiner ersten Schlacht teil.",
+                "categoryId": 7,
+                "prerequisiteIds": [13]
+              },
+              {
+                "id": 15,
+                "title": "Fahrzeug freischalten",
+                "description": "Schalte ein neues Fahrzeug frei.",
+                "categoryId": 7,
+                "prerequisiteIds": [14]
+              },
+              {
+                "id": 16,
+                "title": "Squad gründen",
+                "description": "Gründe ein Squad mit Freunden.",
+                "categoryId": 7,
+                "prerequisiteIds": []
+              },
+              {
+                "id": 17,
+                "title": "10 Siege in Folge",
+                "description": "Gewinne 10 Spiele hintereinander.",
+                "categoryId": 7,
+                "prerequisiteIds": [14]
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "title": "Spezialeinheiten",
+            "parentCategoryId": 6,
+            "gameId": null,
+            "challenges": [
+              {
+                "id": 18,
+                "title": "Elite-Soldat werden",
+                "description": "Erreiche den Elite-Rang.",
+                "categoryId": 8,
+                "prerequisiteIds": [15, 16]
+              },
+              {
+                "id": 19,
+                "title": "Spezialausrüstung freischalten",
+                "description": "Schalte alle Spezialausrüstungen frei.",
+                "categoryId": 8,
+                "prerequisiteIds": [18]
+              }
             ]
           }
         ],
@@ -38,5 +214,184 @@
       }
     ]
   },
-
+  {
+    "id": 3,
+    "title": "Assassin's Creed",
+    "image": "",
+    "categories": [
+      {
+        "id": 9,
+        "title": "Hauptstory",
+        "parentCategoryId": null,
+        "gameId": 3,
+        "subCategories": [],
+        "challenges": [
+          {
+            "id": 20,
+            "title": "Erstes Attentat",
+            "description": "Führe dein erstes Attentat aus.",
+            "categoryId": 9,
+            "prerequisiteIds": []
+          },
+          {
+            "id": 21,
+            "title": "Hauptstory abschließen",
+            "description": "Schließe die Hauptstory ab.",
+            "categoryId": 9,
+            "prerequisiteIds": [20]
+          },
+          {
+            "id": 22,
+            "title": "Geheime Endsequenz",
+            "description": "Schalte die geheime Endsequenz frei.",
+            "categoryId": 9,
+            "prerequisiteIds": [21]
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Nebenmissionen",
+        "parentCategoryId": null,
+        "gameId": 3,
+        "subCategories": [],
+        "challenges": [
+          {
+            "id": 23,
+            "title": "Schatzsuche",
+            "description": "Finde alle verborgenen Schätze.",
+            "categoryId": 10,
+            "prerequisiteIds": []
+          },
+          {
+            "id": 24,
+            "title": "Assassinen-Gilde gründen",
+            "description": "Rekrutiere Mitglieder für deine Gilde.",
+            "categoryId": 10,
+            "prerequisiteIds": [23]
+          },
+          {
+            "id": 25,
+            "title": "Alle Nebenmissionen abschließen",
+            "description": "Schließe alle Nebenmissionen ab.",
+            "categoryId": 10,
+            "prerequisiteIds": [24]
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Multiplayer",
+        "parentCategoryId": null,
+        "gameId": 3,
+        "subCategories": [],
+        "challenges": [
+          {
+            "id": 26,
+            "title": "Erstes Online-Match",
+            "description": "Nimm an einem Online-Match teil.",
+            "categoryId": 11,
+            "prerequisiteIds": []
+          },
+          {
+            "id": 27,
+            "title": "Online-Rang 50 erreichen",
+            "description": "Erreiche Rang 50 im Multiplayer.",
+            "categoryId": 11,
+            "prerequisiteIds": [26]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Witcher 3",
+    "image": "",
+    "categories": [
+      {
+        "id": 12,
+        "title": "Hauptquests",
+        "parentCategoryId": null,
+        "gameId": 4,
+        "subCategories": [],
+        "challenges": [
+          {
+            "id": 28,
+            "title": "Weißgarten abschließen",
+            "description": "Schließe alle Quests in Weißgarten ab.",
+            "categoryId": 12,
+            "prerequisiteIds": []
+          },
+          {
+            "id": 29,
+            "title": "Nilfgaard besiegen",
+            "description": "Besiege die Armeen von Nilfgaard.",
+            "categoryId": 12,
+            "prerequisiteIds": [28]
+          },
+          {
+            "id": 30,
+            "title": "Ciri finden",
+            "description": "Finde Ciri und schließe die Hauptstory ab.",
+            "categoryId": 12,
+            "prerequisiteIds": [29]
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Nebenquests",
+        "parentCategoryId": null,
+        "gameId": 4,
+        "subCategories": [],
+        "challenges": [
+          {
+            "id": 31,
+            "title": "Hexeraufträge",
+            "description": "Schließe alle Hexeraufträge ab.",
+            "categoryId": 13,
+            "prerequisiteIds": []
+          },
+          {
+            "id": 32,
+            "title": "Schatzsuchen",
+            "description": "Finde alle Hexerausrüstungssets.",
+            "categoryId": 13,
+            "prerequisiteIds": []
+          },
+          {
+            "id": 33,
+            "title": "Gwint-Meister",
+            "description": "Besiege alle Gwint-Spieler.",
+            "categoryId": 13,
+            "prerequisiteIds": []
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Erweiterungen",
+        "parentCategoryId": null,
+        "gameId": 4,
+        "subCategories": [],
+        "challenges": [
+          {
+            "id": 34,
+            "title": "Hearts of Stone abschließen",
+            "description": "Schließe die Hearts of Stone Erweiterung ab.",
+            "categoryId": 14,
+            "prerequisiteIds": [30]
+          },
+          {
+            "id": 35,
+            "title": "Blood and Wine abschließen",
+            "description": "Schließe die Blood and Wine Erweiterung ab.",
+            "categoryId": 14,
+            "prerequisiteIds": [34]
+          }
+        ]
+      }
+    ]
+  }
 ]
