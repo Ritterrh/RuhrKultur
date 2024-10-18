@@ -1,7 +1,42 @@
-{
-    "title": "Test",
-    "author": "Test",
-    "content": "Test",
-    "date": "30.03.2006",
-    "urlToImage": "https://cdn.pixabay.com/photo/2024/01/12/17/01/leaves-8504392_640.jpg"
-}
+[
+  {
+    "id": 1,
+    "title": "Call of Duty MV3",
+    "image": "",
+    "categories": [
+      {
+        "id": 1,
+        "title": "Kampagne",
+        "parentCategoryId": null,
+        "gameId": 1,
+        "subCategories": [
+          {
+            "id": 2,
+            "title": "Missionen",
+            "parentCategoryId": 1,
+            "gameId": null,
+            "challenges": [
+              {
+                "id": 1,
+                "title": "Einführung abschließen",
+                "description": "Beende das Einführungskapitel.",
+                "categoryId": 2,
+                "prerequisiteIds": []
+              },
+              {
+                "id": 2,
+                "title": "Erste Mission",
+                "description": "Schließe die erste Mission ab.",
+                "categoryId": 2,
+                "prerequisiteIds": [1]
+              },
+              // Weitere Challenges...
+            ]
+          }
+        ],
+        "challenges": []
+      }
+    ]
+  },
+  // Weitere Spiele...
+]
