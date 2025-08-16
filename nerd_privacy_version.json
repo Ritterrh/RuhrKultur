@@ -1,4 +1,14 @@
 {
-  "version": 1,
-  "url": 
+  "documents": {
+    "privacy": {
+      "version": 1,
+      "url": "assets/policies/privacy.md",
+      "title": "Datenschutzerklärung / Privacy Policy"
+    },
+    "data_deletion": {
+      "version": 1,
+      "url": "assets/policies/data_deletion.md",
+      "title": "Datenlöschung / Data Deletion"
+    }
+  }
 }
