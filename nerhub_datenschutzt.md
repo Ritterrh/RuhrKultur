@@ -7,8 +7,8 @@
 ## 🇩🇪 Deutsch
 
 ### 1. Verantwortlich
-**[Dein Name / Entwicklername]**  
-E-Mail: [deine@email.de]  
+**[Vision]**  
+E-Mail: [store.pointing454@passmail.net]  
 
 ---
 
@@ -80,8 +80,8 @@ Das Datum der letzten Aktualisierung findest du oben.
 ## 🇬🇧 English
 
 ### 1. Responsible Entity
-**[Your Name / Developer Name]**  
-Email: [your@email.com]  
+**[Vision]**  
+Email: [store.pointing454@passmail.net]  
 
 ---
 

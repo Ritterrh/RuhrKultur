@@ -1,7 +1,7 @@
 {
   "documents": {
     "privacy": {
-      "version": 1,
+      "version": 2,
       "url": "assets/policies/privacy.md",
       "title": "Datenschutzerklärung / Privacy Policy"
     },
